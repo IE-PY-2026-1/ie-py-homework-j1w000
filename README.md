@@ -125,7 +125,7 @@
      * **해결:** 마지막에 else문을 추가해서 경고 메시지를 띄우게 하고, continue를 써서 프로그램이 튕기지 않고 다시 첫 메뉴판으로 돌아가게 안전장치를 만듦.
 ### **📁 증빙 자료:**
   * [3차_AI협업캡처.pdf 첨부 완료] https://github.com/IE-PY-2026-1/ie-py-homework-j1w000/commit/d00c829ca4b6a095285c403ef0c04ff13adcf18f
-  * [3차과제_실행결과.jpg]
+  * [3차과제_실행결과.jpg] https://github.com/IE-PY-2026-1/ie-py-homework-j1w000/commit/d792c760b56ae0f5cb91ef35bba037c77d78f17f
 <br>
 
 ### 🟥 [4차 과제: V4.0] 모듈화 및 데이터 확장 (배열과 함수) - 🌟최종 완성 -- 향후 작성 예정
